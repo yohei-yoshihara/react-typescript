@@ -1,1 +1,3 @@
 # react-typescript
+
+React+Typescriptのサンプルコード
