@@ -1,1 +1,3 @@
 # Skeleton App
+
+React + TypeScriptのサンプルアプリのためのスケルトンアプリ
