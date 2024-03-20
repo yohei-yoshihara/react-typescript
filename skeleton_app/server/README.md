@@ -1,5 +1,11 @@
 # REST server
 
+## 起動
+
+``` bash
+npm start
+```
+
 ## 環境のセットアップ
 
 ``` bash
